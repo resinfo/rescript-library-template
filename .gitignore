@@ -86,3 +86,10 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+lib
+.merlin
+.bsb.lock
+
+src/**/*.*js
+test/**/*.*js
